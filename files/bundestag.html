@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="FW">
+    <script src="./bundestag.js" type="text/javascript"></script>
+    <link rel="stylesheet" href = "bundestag.css">
+</head>
+
+<body onload="bundestag.load()">
+    <h1>Debatten im Deutschen Bundestag</h1>
+
+    <main>
+        <h2 id="title"></h2>
+        <div id="content">
+            <div id = "left-col" >
+                <video controls muted hidden id="video"></video>
+                <nav>
+                    <div id="description"></div>
+                    <button id="prev"> &lt Vorheriger Beitrag </button>
+                    <button id ="next"> Nächster Beitrag &gt</button>
+                </nav>
+            </div>
+            <ul id="toc"></ul>
+        </div>
+    </main>
+
+</body>
+
+</html>

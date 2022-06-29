@@ -1,0 +1,2532 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+			<!--  tags used within itunes channel -->
+			<title>Plenarsitzungen - Video Podcasts</title>
+			<link>http://www.bundestag.de</link>
+			<copyright>Deutscher Bundestag</copyright>
+
+			<itunes:category text="News &amp; Politics"/>
+			<itunes:subtitle>Deutscher Bundestag</itunes:subtitle>
+			<itunes:summary>Deutscher Bundestag</itunes:summary>
+			<itunes:author>Deutscher Bundestag</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:block>No</itunes:block>
+			<itunes:owner>
+				<itunes:name>Deutscher Bundestag</itunes:name>
+				<itunes:email>mail@bundestag.de</itunes:email>
+			</itunes:owner>
+			<itunes:image href="http://iptv.cdn.tv1.de/statics/145293313/podcast/logo.png" />
+
+			<pubDate>Fri, 17 Jan 2014 17:01:00 +0200</pubDate>
+			<description>Deutscher Bundestag - Mediathek</description>
+			<language>de</language>
+
+			<image>
+				<url>http://iptv.cdn.tv1.de/statics/145293313/podcast/logo_rss.png</url>
+				<width>144</width>
+				<height>144</height>
+				<title>Video Podcasts</title>
+				<link>http://www.bundestag.de</link>
+			</image>
+
+			
+			
+			
+				
+				<atom:link rel="next" href="https://webtv.bundestag.de/player/macros/_v_q_2192_de/_s_podcast_skin/_x_s-144277506/bttv/podcast.xml?pagingOffset=1" type="application/rss+xml" />
+			
+			<atom:link rel="self" href="https://webtv.bundestag.de/player/macros/_v_q_2192_de/_s_podcast_skin/_x_s-144277506/bttv/podcast.xml?pagingOffset=0" type="application/rss+xml" />
+
+			
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Katrin Göring-Eckardt (Bundestagsvizepräsidentin/B90/Grüne) am 24.06.2022 um 17:02 Uhr (45. Sitzung, TOP Sitzungsende)]]></title>
+					<pubDate>Fri, 24 Jun 2022 17:02:11 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537879</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					<itunes:summary><![CDATA[]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537879/7537879_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537879/7537879_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:00:36</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Katrin Göring-Eckardt (Bundestagsvizepräsidentin/B90/Grüne) am 24.06.2022 um 17:01 Uhr (45. Sitzung, TOP 30)]]></title>
+					<pubDate>Fri, 24 Jun 2022 17:01:59 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537878</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537878/7537878_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537878/7537878_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:00:12</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Boris Mijatovic (B90/Grüne) am 24.06.2022 um 16:59 Uhr (45. Sitzung, TOP 30)]]></title>
+					<pubDate>Fri, 24 Jun 2022 16:59:42 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537877</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537877/7537877_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537877/7537877_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:02:17</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Tobias Winkler (CDU/CSU) am 24.06.2022 um 16:54 Uhr (45. Sitzung, TOP 30)]]></title>
+					<pubDate>Fri, 24 Jun 2022 16:54:35 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537875</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537875/7537875_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537875/7537875_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:05:07</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Dietmar Nietan (SPD) am 24.06.2022 um 16:50 Uhr (45. Sitzung, TOP 30)]]></title>
+					<pubDate>Fri, 24 Jun 2022 16:50:02 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537874</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537874/7537874_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537874/7537874_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:04:33</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Sevim Dagdelen (Die Linke) am 24.06.2022 um 16:46 Uhr (45. Sitzung, TOP 30)]]></title>
+					<pubDate>Fri, 24 Jun 2022 16:46:34 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537873</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537873/7537873_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537873/7537873_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:03:28</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Alexander Müller (FDP) am 24.06.2022 um 16:41 Uhr (45. Sitzung, TOP 30)]]></title>
+					<pubDate>Fri, 24 Jun 2022 16:41:34 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537872</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537872/7537872_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537872/7537872_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:05:00</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Petr Bystron (AfD) am 24.06.2022 um 16:37 Uhr (45. Sitzung, TOP 30)]]></title>
+					<pubDate>Fri, 24 Jun 2022 16:37:09 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537871</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537871/7537871_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537871/7537871_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:04:25</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Dr. Anna Lührmann (Staatsministerin im Auswärtigen Amt/B90/Grüne) am 24.06.2022 um 16:32 Uhr (45. Sitzung, TOP 30)]]></title>
+					<pubDate>Fri, 24 Jun 2022 16:32:46 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537870</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537870/7537870_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537870/7537870_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:04:23</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Armin Schwarz (CDU/CSU) am 24.06.2022 um 16:27 Uhr (45. Sitzung, TOP 30)]]></title>
+					<pubDate>Fri, 24 Jun 2022 16:27:03 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537869</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537869/7537869_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537869/7537869_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:05:43</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Christine Lambrecht (Bundesministerin der Verteidigung/) am 24.06.2022 um 16:22 Uhr (45. Sitzung, TOP 30)]]></title>
+					<pubDate>Fri, 24 Jun 2022 16:22:01 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537868</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537868/7537868_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537868/7537868_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:05:02</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Katrin Göring-Eckardt (Bundestagsvizepräsidentin/B90/Grüne) am 24.06.2022 um 16:21 Uhr (45. Sitzung, TOP 30)]]></title>
+					<pubDate>Fri, 24 Jun 2022 16:21:15 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537867</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Bundeswehreinsatz EUFOR ALTHEA]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537867/7537867_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537867/7537867_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:00:46</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Katrin Göring-Eckardt (Bundestagsvizepräsidentin/B90/Grüne) am 24.06.2022 um 16:19 Uhr (45. Sitzung, TOP ZP 14)]]></title>
+					<pubDate>Fri, 24 Jun 2022 16:19:39 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537866</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537866/7537866_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537866/7537866_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:01:36</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Ralph Lenkert (Die Linke) am 24.06.2022 um 16:17 Uhr (45. Sitzung, TOP ZP 14)]]></title>
+					<pubDate>Fri, 24 Jun 2022 16:17:25 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537864</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537864/7537864_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537864/7537864_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:02:14</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Konrad Stockmeier (FDP) am 24.06.2022 um 16:12 Uhr (45. Sitzung, TOP ZP 14)]]></title>
+					<pubDate>Fri, 24 Jun 2022 16:12:50 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537863</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537863/7537863_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537863/7537863_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:04:35</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Steffen Kotré (AfD) am 24.06.2022 um 16:09 Uhr (45. Sitzung, TOP ZP 14)]]></title>
+					<pubDate>Fri, 24 Jun 2022 16:09:01 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537862</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537862/7537862_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537862/7537862_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:03:49</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Markus Hümpfer (SPD) am 24.06.2022 um 16:01 Uhr (45. Sitzung, TOP ZP 14)]]></title>
+					<pubDate>Fri, 24 Jun 2022 16:01:39 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537861</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537861/7537861_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537861/7537861_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:07:22</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Fabian Gramling (CDU/CSU) am 24.06.2022 um 15:55 Uhr (45. Sitzung, TOP ZP 14)]]></title>
+					<pubDate>Fri, 24 Jun 2022 15:55:47 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537860</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537860/7537860_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537860/7537860_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:05:52</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Dr. Ingrid Nestle (B90/Grüne) am 24.06.2022 um 15:50 Uhr (45. Sitzung, TOP ZP 14)]]></title>
+					<pubDate>Fri, 24 Jun 2022 15:50:57 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537859</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537859/7537859_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537859/7537859_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:04:50</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Katrin Göring-Eckardt (Bundestagsvizepräsidentin/B90/Grüne) am 24.06.2022 um 15:50 Uhr (45. Sitzung, TOP ZP 14)]]></title>
+					<pubDate>Fri, 24 Jun 2022 15:50:22 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537858</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Energiewirtschaftsrecht, Anpassungen im Recht der Endkundenbelieferung]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537858/7537858_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537858/7537858_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:00:35</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Katrin Göring-Eckardt (Bundestagsvizepräsidentin/B90/Grüne) am 24.06.2022 um 15:50 Uhr (45. Sitzung, TOP ZP 10-13)]]></title>
+					<pubDate>Fri, 24 Jun 2022 15:50:07 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537857</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Ausbau von Windenergieanlagen]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Ausbau von Windenergieanlagen]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Ausbau von Windenergieanlagen]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537857/7537857_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537857/7537857_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:00:15</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Bernhard Daldrup (SPD) am 24.06.2022 um 15:46 Uhr (45. Sitzung, TOP ZP 10-13)]]></title>
+					<pubDate>Fri, 24 Jun 2022 15:46:10 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537856</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Ausbau von Windenergieanlagen]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Ausbau von Windenergieanlagen]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Ausbau von Windenergieanlagen]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537856/7537856_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537856/7537856_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:03:57</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Ulrike Harzer (FDP) am 24.06.2022 um 15:43 Uhr (45. Sitzung, TOP ZP 10-13)]]></title>
+					<pubDate>Fri, 24 Jun 2022 15:43:50 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537854</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Ausbau von Windenergieanlagen]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Ausbau von Windenergieanlagen]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Ausbau von Windenergieanlagen]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537854/7537854_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537854/7537854_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:02:20</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Helmut Kleebank (SPD) am 24.06.2022 um 15:39 Uhr (45. Sitzung, TOP ZP 10-13)]]></title>
+					<pubDate>Fri, 24 Jun 2022 15:39:20 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537853</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Ausbau von Windenergieanlagen]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Ausbau von Windenergieanlagen]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Ausbau von Windenergieanlagen]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537853/7537853_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537853/7537853_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:04:30</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Klaus Mack (CDU/CSU) am 24.06.2022 um 15:34 Uhr (45. Sitzung, TOP ZP 10-13)]]></title>
+					<pubDate>Fri, 24 Jun 2022 15:34:49 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537852</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Ausbau von Windenergieanlagen]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Ausbau von Windenergieanlagen]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Ausbau von Windenergieanlagen]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537852/7537852_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537852/7537852_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:04:31</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Harald Ebner (B90/Grüne) am 24.06.2022 um 15:31 Uhr (45. Sitzung, TOP ZP 10-13)]]></title>
+					<pubDate>Fri, 24 Jun 2022 15:31:05 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537851</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Ausbau von Windenergieanlagen]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Ausbau von Windenergieanlagen]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Ausbau von Windenergieanlagen]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537851/7537851_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537851/7537851_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:03:44</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Ralph Lenkert (Die Linke) am 24.06.2022 um 15:27 Uhr (45. Sitzung, TOP ZP 10-13)]]></title>
+					<pubDate>Fri, 24 Jun 2022 15:27:44 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537850</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Ausbau von Windenergieanlagen]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Ausbau von Windenergieanlagen]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Ausbau von Windenergieanlagen]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537850/7537850_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537850/7537850_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:03:21</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Dr. Lukas Köhler (FDP) am 24.06.2022 um 15:24 Uhr (45. Sitzung, TOP ZP 10-13)]]></title>
+					<pubDate>Fri, 24 Jun 2022 15:24:02 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537849</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Ausbau von Windenergieanlagen]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Ausbau von Windenergieanlagen]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Ausbau von Windenergieanlagen]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537849/7537849_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537849/7537849_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:03:42</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Karsten Hilse (AfD) am 24.06.2022 um 15:19 Uhr (45. Sitzung, TOP ZP 10-13)]]></title>
+					<pubDate>Fri, 24 Jun 2022 15:19:47 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537848</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Ausbau von Windenergieanlagen]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Ausbau von Windenergieanlagen]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Ausbau von Windenergieanlagen]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537848/7537848_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537848/7537848_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:04:15</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Bengt Bergt (SPD) am 24.06.2022 um 15:15 Uhr (45. Sitzung, TOP ZP 10-13)]]></title>
+					<pubDate>Fri, 24 Jun 2022 15:15:14 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537847</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Ausbau von Windenergieanlagen]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Ausbau von Windenergieanlagen]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Ausbau von Windenergieanlagen]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537847/7537847_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537847/7537847_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:04:33</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Andreas Jung (CDU/CSU) am 24.06.2022 um 15:08 Uhr (45. Sitzung, TOP ZP 10-13)]]></title>
+					<pubDate>Fri, 24 Jun 2022 15:08:34 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537846</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Ausbau von Windenergieanlagen]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Ausbau von Windenergieanlagen]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Ausbau von Windenergieanlagen]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537846/7537846_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537846/7537846_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:06:40</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Katrin Uhlig (B90/Grüne) am 24.06.2022 um 15:04 Uhr (45. Sitzung, TOP ZP 10-13)]]></title>
+					<pubDate>Fri, 24 Jun 2022 15:04:33 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537843</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Ausbau von Windenergieanlagen]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Ausbau von Windenergieanlagen]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Ausbau von Windenergieanlagen]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537843/7537843_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537843/7537843_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:04:01</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Katrin Göring-Eckardt (Bundestagsvizepräsidentin/B90/Grüne) am 24.06.2022 um 15:03 Uhr (45. Sitzung, TOP ZP 10-13)]]></title>
+					<pubDate>Fri, 24 Jun 2022 15:03:59 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537842</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Ausbau von Windenergieanlagen]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Ausbau von Windenergieanlagen]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Ausbau von Windenergieanlagen]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537842/7537842_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537842/7537842_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:00:34</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Katrin Göring-Eckardt (Bundestagsvizepräsidentin/B90/Grüne) am 24.06.2022 um 15:03 Uhr (45. Sitzung, TOP 31)]]></title>
+					<pubDate>Fri, 24 Jun 2022 15:03:31 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537841</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537841/7537841_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537841/7537841_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:00:28</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Jürgen Berghahn (SPD) am 24.06.2022 um 15:00 Uhr (45. Sitzung, TOP 31)]]></title>
+					<pubDate>Fri, 24 Jun 2022 15:00:06 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537840</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537840/7537840_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537840/7537840_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:03:25</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Anja Troff-Schaffarzyk (SPD) am 24.06.2022 um 14:56 Uhr (45. Sitzung, TOP 31)]]></title>
+					<pubDate>Fri, 24 Jun 2022 14:56:27 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537839</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537839/7537839_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537839/7537839_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:03:39</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Martina Englhardt-Kopf (CDU/CSU) am 24.06.2022 um 14:50 Uhr (45. Sitzung, TOP 31)]]></title>
+					<pubDate>Fri, 24 Jun 2022 14:50:57 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537837</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537837/7537837_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537837/7537837_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:05:30</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Oliver Luksic (Parlamentarischer Staatssekretär für Digitales und Verkehr/FDP) am 24.06.2022 um 14:43 Uhr (45. Sitzung, TOP 31)]]></title>
+					<pubDate>Fri, 24 Jun 2022 14:43:42 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537836</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537836/7537836_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537836/7537836_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:07:15</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Thomas Lutze (Die Linke) am 24.06.2022 um 14:39 Uhr (45. Sitzung, TOP 31)]]></title>
+					<pubDate>Fri, 24 Jun 2022 14:39:58 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537835</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537835/7537835_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537835/7537835_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:03:44</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Nyke Slawik (B90/Grüne) am 24.06.2022 um 14:33 Uhr (45. Sitzung, TOP 31)]]></title>
+					<pubDate>Fri, 24 Jun 2022 14:33:59 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537834</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537834/7537834_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537834/7537834_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:05:59</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von René Bochmann (AfD) am 24.06.2022 um 14:29 Uhr (45. Sitzung, TOP 31)]]></title>
+					<pubDate>Fri, 24 Jun 2022 14:29:46 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537833</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537833/7537833_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537833/7537833_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:04:13</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Udo Schiefner (SPD) am 24.06.2022 um 14:24 Uhr (45. Sitzung, TOP 31)]]></title>
+					<pubDate>Fri, 24 Jun 2022 14:24:19 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537832</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537832/7537832_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537832/7537832_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:05:27</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Henning Rehbaum (CDU/CSU) am 24.06.2022 um 14:19 Uhr (45. Sitzung, TOP 31)]]></title>
+					<pubDate>Fri, 24 Jun 2022 14:19:12 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537831</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537831/7537831_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537831/7537831_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:05:07</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Aydan Özoguz (Bundestagsvizepräsidentin/SPD) am 24.06.2022 um 14:18 Uhr (45. Sitzung, TOP 31)]]></title>
+					<pubDate>Fri, 24 Jun 2022 14:18:30 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537829</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Fahrpersonalmangel in der Verkehrswirtschaft]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537829/7537829_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537829/7537829_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:00:42</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Aydan Özoguz (Bundestagsvizepräsidentin/SPD) am 24.06.2022 um 14:18 Uhr (45. Sitzung, TOP ZP 15)]]></title>
+					<pubDate>Fri, 24 Jun 2022 14:18:08 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537828</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Bereithaltung von Ersatzkraftwerken
+]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Bereithaltung von Ersatzkraftwerken
+]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Bereithaltung von Ersatzkraftwerken
+]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537828/7537828_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537828/7537828_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:00:22</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Ralph Lenkert (Die Linke) am 24.06.2022 um 14:15 Uhr (45. Sitzung, TOP ZP 15)]]></title>
+					<pubDate>Fri, 24 Jun 2022 14:15:47 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537827</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Bereithaltung von Ersatzkraftwerken
+]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Bereithaltung von Ersatzkraftwerken
+]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Bereithaltung von Ersatzkraftwerken
+]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537827/7537827_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537827/7537827_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:02:21</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Jens Beeck (FDP) am 24.06.2022 um 14:11 Uhr (45. Sitzung, TOP ZP 15)]]></title>
+					<pubDate>Fri, 24 Jun 2022 14:11:53 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537826</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Bereithaltung von Ersatzkraftwerken
+]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Bereithaltung von Ersatzkraftwerken
+]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Bereithaltung von Ersatzkraftwerken
+]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537826/7537826_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537826/7537826_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:03:54</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Karsten Hilse (AfD) am 24.06.2022 um 14:08 Uhr (45. Sitzung, TOP ZP 15)]]></title>
+					<pubDate>Fri, 24 Jun 2022 14:08:19 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537825</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Bereithaltung von Ersatzkraftwerken
+]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Bereithaltung von Ersatzkraftwerken
+]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Bereithaltung von Ersatzkraftwerken
+]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537825/7537825_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537825/7537825_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:03:34</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Andreas Rimkus (SPD) am 24.06.2022 um 14:01 Uhr (45. Sitzung, TOP ZP 15)]]></title>
+					<pubDate>Fri, 24 Jun 2022 14:01:40 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537824</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Bereithaltung von Ersatzkraftwerken
+]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Bereithaltung von Ersatzkraftwerken
+]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Bereithaltung von Ersatzkraftwerken
+]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537824/7537824_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537824/7537824_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:06:39</itunes:duration>
+					
+					
+					
+				</item>
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+				
+				
+				<item>
+					<!--  tags used within itunes channel -->
+					<title><![CDATA[Redebeitrag von Mark Helfrich (CDU/CSU) am 24.06.2022 um 13:56 Uhr (45. Sitzung, TOP ZP 15)]]></title>
+					<pubDate>Fri, 24 Jun 2022 13:56:14 +0200</pubDate>
+					<link>http://dbtg.tv/fvid/7537823</link>
+					
+
+					<itunes:author>Deutscher Bundestag</itunes:author>
+					<itunes:block>No</itunes:block>
+					<itunes:explicit>No</itunes:explicit>
+					<itunes:keywords><![CDATA[]]></itunes:keywords>
+					<itunes:subtitle><![CDATA[Bereithaltung von Ersatzkraftwerken
+]]></itunes:subtitle>
+					<itunes:summary><![CDATA[Bereithaltung von Ersatzkraftwerken
+]]></itunes:summary>
+
+					
+					
+
+					<description><![CDATA[Bereithaltung von Ersatzkraftwerken
+]]></description>
+					<!-- 
+					
+					
+					 -->
+					<category>Deutscher Bundestag</category>
+
+					<dc:creator>Deutscher Bundestag</dc:creator>
+					
+					
+					<guid>https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537823/7537823_h264_720_400_2000kb_baseline_de_2192.mp4</guid>
+						<!-- When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0 -->
+					<enclosure url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7537823/7537823_h264_720_400_2000kb_baseline_de_2192.mp4" type="video/mp4" length="0"/>
+						
+						
+						<itunes:duration>00:05:26</itunes:duration>
+					
+					
+					
+				</item>
+			
+		
+	</channel>
+</rss>
